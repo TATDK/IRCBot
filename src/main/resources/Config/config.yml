@@ -1,0 +1,23 @@
+##
+# IRCBot
+# dk.earthgame.TAT.IRCBot
+# Developed by TAT
+# Credits:
+# * The Bukkit Team and snakeYAML for configuration loading method
+# * PircBot for the IRC Bot API
+##
+
+Server: irc.esper.net
+Nick: IRCBot
+LoginInfo:
+  Identify: false
+  Password: 
+Verbose: true
+Private: false
+Users:
+  TAT: admin
+Channels:
+  - BankAccount
+Actions:
+  Moderate:
+    - BankAccount

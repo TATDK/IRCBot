@@ -1,0 +1,10 @@
+##
+# IRCBot
+# dk.earthgame.TAT.IRCBot
+# Developed by TAT
+# Credits:
+# * The Bukkit Team and snakeYAML for configuration loading method
+# * PircBot for the IRC Bot API
+##
+
+This bot is specific made for the IRC channels for Bukkit plugins made by TAT.
